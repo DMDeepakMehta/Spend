@@ -2,6 +2,9 @@
 
 ### Make sure to create a `.env` file with following variables -
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/24cf631b-0432-4e83-9c26-b1600d2c724b" />
+
+
 ```
 DATABASE_URL=
 DIRECT_URL=
